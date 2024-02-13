@@ -37,7 +37,7 @@ And the possible mods are:
 - EZHD
 - EZFL
 
-All this is easily customisable in the 'Games' section of the code.
+All this is easily customizable in the 'Games' section of the code.
 
 
 ## Acknowledgements
