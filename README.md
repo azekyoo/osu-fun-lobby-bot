@@ -19,7 +19,7 @@ You can find the id here when joining the lobby:
 
 ## Usage/Examples
 
-Once in the osu lobby, type "!game" or "!g" in the chat to get a new map and mods automatically selected. The win condition will be sent as a message to the lobby.
+Once in the osu lobby, type `!game` or `!g` in the chat to get a new map and mods automatically selected. The win condition will be sent as a message to the lobby.
 
 
 ## Features
